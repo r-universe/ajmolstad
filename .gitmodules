@@ -5,3 +5,6 @@
 [submodule "MatrixLDA"]
 	path = MatrixLDA
 	url = https://github.com/ajmolstad/matrixlda
+[submodule "penAFT"]
+	path = penAFT
+	url = https://github.com/ajmolstad/penaft
