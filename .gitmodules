@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "MatrixLDA"]
-	path = MatrixLDA
-	url = https://github.com/ajmolstad/matrixlda
 [submodule "penAFT"]
 	path = penAFT
 	url = https://github.com/ajmolstad/penaft
